@@ -1,5 +1,9 @@
 language : python
 OS : windows
 
+install:
+  - pip install coveralls
 script:
-  python ./Hello_World.py
+  - coverage run ./Hello_World.py
+after_success:
+  - coveralls
