@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/uesan/hello-world.svg?branch=master)](https://travis-ci.org/uesan/hello-world)
 # hello-world
 Just another repository
 
