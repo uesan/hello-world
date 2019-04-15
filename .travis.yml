@@ -1,2 +1,5 @@
 language : python
 OS : windows
+
+script:
+  python ./Hello_World.py
